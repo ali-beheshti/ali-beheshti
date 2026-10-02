@@ -23,7 +23,7 @@ Benchmarking machine-learning regression models for predicting galaxy redshifts 
 `Machine learning` · `Regression` · `Model comparison` · `Feature analysis` · `scikit-learn`
 
 <p align="center">
-  <img src="./assets/photo-z-benchmark.png" width="250">
+  <img src="./assets/random_forest_photoz_performance.png" width="250">
 </p>
 
 ### 🌌 [Fast Signal Painter](https://github.com/ali-beheshti/flat-signal-painter)
