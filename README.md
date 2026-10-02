@@ -79,6 +79,7 @@ Although my research applications come from cosmology, much of the underlying wo
 
 I'm particularly interested in problems where **statistics, computation, and physical or quantitative modeling meet**.
 
-## Connect
 
-[LinkedIn](https://www.linkedin.com/in/alibsht/) · [Gmail](mailto:alibeheshti.edu@gmail.com)
+ [Publications](https://scholar.google.com/citations?hl=en&user=BljYE98AAAAJ) 
+ [LinkedIn](https://www.linkedin.com/in/alibsht/)
+ [Gmail](mailto:alibeheshti.edu@gmail.com)
