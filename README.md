@@ -38,7 +38,7 @@ Benchmarking machine-learning regression models for predicting galaxy redshifts 
 </td>
 <td width="40%" align="center">
 
-<img src="./assets/photoz_feature_ablation.gif" width="250">
+<img src="./assets/photoz_feature_ablation.gif" width="320">
 
 </td>
 </tr>
@@ -57,7 +57,7 @@ Framework for efficiently generating and visualizing simulated astrophysical sig
 </td>
 <td width="40%" align="center">
 
-<img src="./assets/velocity_rotation.gif" width="250">
+<img src="./assets/velocity_rotation.gif" width="320">
 
 </td>
 </tr>
