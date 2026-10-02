@@ -38,7 +38,7 @@ Benchmarking machine-learning regression models for predicting galaxy redshifts 
 </td>
 <td width="40%" align="center">
 
-<img src="./assets/random_forest_photoz_performance.png" width="250">
+<img src="./assets/photoz_feature_ablation.gif" width="250">
 
 </td>
 </tr>
