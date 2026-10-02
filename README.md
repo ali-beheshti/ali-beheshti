@@ -6,8 +6,6 @@ My work focuses on extracting weak signals from noisy datasets using **predictiv
 
 ## Featured Projects
 
-## Featured Projects
-
 <table>
 <tr>
 <td width="60%" valign="top">
