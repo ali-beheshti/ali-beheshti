@@ -13,7 +13,7 @@ End-to-end pipeline for statistical signal extraction from large CMB and galaxy 
 `Statistical inference` · `Signal processing` · `Large-scale data` · `HPC` · `Python`
 
 <p align="center">
-  <img src="./assets/moving-lens.gif" width="650">
+  <img src="./assets/pairwise_velocity.gif" width="650">
 </p>
 
 ### 📊 [Photo-z Machine Learning Benchmark](https://github.com/ali-beheshti/photo-z-machine-learning-benchmark)
@@ -33,7 +33,7 @@ Framework for efficiently generating and visualizing simulated astrophysical sig
 `Simulation` · `Numerical methods` · `Scientific Python` · `Visualization`
 
 <p align="center">
-  <img src="./assets/flat-signal-painter.gif" width="650">
+  <img src="./assets/velocity_rotation.gif" width="650">
 </p>
 
 ## Skills
