@@ -12,20 +12,6 @@ End-to-end pipeline for statistical signal extraction from large CMB and galaxy 
 
 `Statistical inference` · `Signal processing` · `Large-scale data` · `HPC` · `Python`
 
-<p align="center">
-  <img src="./assets/pairwise_velocity.gif" width="250">
-</p>
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-### 🔭 [Moving Lens Analysis Pipeline](https://github.com/ali-beheshti/moving-lens-analysis-pipeline)
-
-End-to-end pipeline for statistical signal extraction from large CMB and galaxy datasets.
-
-`Statistical inference` · `Signal processing` · `Large-scale data` · `HPC` · `Python`
-
 </td>
 <td width="40%" align="center">
 
@@ -35,15 +21,28 @@ End-to-end pipeline for statistical signal extraction from large CMB and galaxy 
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 ### 📊 [Photo-z Machine Learning Benchmark](https://github.com/ali-beheshti/photo-z-machine-learning-benchmark)
 
 Benchmarking machine-learning regression models for predicting galaxy redshifts from observational features.
 
 `Machine learning` · `Regression` · `Model comparison` · `Feature analysis` · `scikit-learn`
 
-<p align="center">
-  <img src="./assets/random_forest_photoz_performance.png" width="250">
-</p>
+</td>
+<td width="40%" align="center">
+
+<img src="./assets/random_forest_photoz_performance.png" width="250">
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ### 🌌 [Fast Signal Painter](https://github.com/ali-beheshti/flat-signal-painter)
 
@@ -51,9 +50,14 @@ Framework for efficiently generating and visualizing simulated astrophysical sig
 
 `Simulation` · `Numerical methods` · `Scientific Python` · `Visualization`
 
-<p align="center">
-  <img src="./assets/velocity_rotation.gif" width="250">
-</p>
+</td>
+<td width="40%" align="center">
+
+<img src="./assets/velocity_rotation.gif" width="250">
+
+</td>
+</tr>
+</table>
 
 ## Skills
 
