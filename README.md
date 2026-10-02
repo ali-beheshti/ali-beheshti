@@ -63,39 +63,47 @@ Framework for efficiently generating and visualizing simulated astrophysical sig
 </tr>
 </table>
 
-## 🧰 Skills & Toolkit
+## ⚡ Technical Toolkit
 
-**Languages & Computing**  
-`Python` · `SQL` · `C` · `NumPy` · `SciPy` · `pandas` · `scikit-learn` · `PyTorch`
+### 💻 Programming
+`Python` `SQL` `C`
 
-**Statistics & Modeling**  
-`Statistical Inference` · `Machine Learning` · `Monte Carlo Methods` · `Uncertainty Quantification`
+### 📊 Data & Machine Learning
+`NumPy` `SciPy` `pandas` `scikit-learn` `PyTorch`
 
-**Scientific Computing**  
-`HPC` · `SLURM` · `Git` · `Reproducible Pipelines` · `Large-Scale Data Analysis`
+### 🧮 Statistics & Scientific Computing
+`Statistical Inference` `Monte Carlo` `Uncertainty Quantification` `Large-Scale Data Analysis`
 
----
-
-## 🔬 What I Work On
-
-My research applications come from cosmology, but the underlying problems are broadly applicable across data science, quantitative modeling, and scientific computing.
-
-I enjoy working on problems that involve:
-
-- 📡 **Extracting weak signals** from noisy, high-dimensional data
-- 📊 **Designing and validating statistical estimators**
-- 🧠 **Building and evaluating predictive models**
-- 🎲 **Modeling uncertainty** and testing assumptions
-- ⚙️ **Developing reproducible computational pipelines**
-- 🚀 **Optimizing scientific code** for HPC environments
-- 📐 **Translating mathematical models** into working analysis software
-
-> **I'm particularly interested in problems where statistics, computation, and physical or quantitative modeling meet.**
+### ⚙️ Tools & Infrastructure
+`HPC` `SLURM` `Git` `Reproducible Workflows`
 
 ---
 
-### 🔗 Connect
+## 🧩 Problems I Like Solving
 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=BljYE98AAAAJ)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alibsht/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alibeheshti.edu@gmail.com)
+My background is in cosmology, but the computational and statistical challenges I work on extend well beyond astrophysics.
+
+**Signal extraction**  
+Finding weak signals hidden in noisy, complex datasets.
+
+**Statistical modeling**  
+Designing estimators, quantifying uncertainty, and validating assumptions.
+
+**Large-scale computation**  
+Turning analysis methods into efficient workflows that run across large datasets and HPC systems.
+
+**Scientific software**  
+Translating mathematical ideas into robust, reproducible analysis code.
+
+---
+
+> ### Statistics + Computation + Quantitative Modeling
+> I’m particularly interested in problems that sit at the intersection of these three areas.
+
+---
+
+### Find me elsewhere
+
+[![Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=BljYE98AAAAJ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alibsht-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alibsht/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alibeheshti.edu@gmail.com)
