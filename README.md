@@ -23,7 +23,7 @@ Benchmarking machine-learning regression models for predicting galaxy redshifts 
 `Machine learning` · `Regression` · `Model comparison` · `Feature analysis` · `scikit-learn`
 
 <p align="center">
-  <img src="./assets/photo-z-benchmark.png" width="650">
+  <img src="./assets/photo-z-benchmark.png" width="250">
 </p>
 
 ### 🌌 [Fast Signal Painter](https://github.com/ali-beheshti/flat-signal-painter)
@@ -33,7 +33,7 @@ Framework for efficiently generating and visualizing simulated astrophysical sig
 `Simulation` · `Numerical methods` · `Scientific Python` · `Visualization`
 
 <p align="center">
-  <img src="./assets/velocity_rotation.gif" width="650">
+  <img src="./assets/velocity_rotation.gif" width="250">
 </p>
 
 ## Skills
