@@ -40,12 +40,17 @@ Framework for efficiently generating and visualizing simulated astrophysical sig
 
 **Python · SQL · C · NumPy · SciPy · pandas · scikit-learn · PyTorch · Statistical inference · Machine learning · Monte Carlo methods · HPC · SLURM · Git**
 
-## Research
+Although my research applications come from cosmology, much of the underlying work is domain-independent:
 
-PhD research in **cosmology and statistical signal inference**, using CMB and large-scale structure datasets.
+- extracting weak signals from noisy data
+- designing and validating statistical estimators
+- working with large, high-dimensional datasets
+- building reproducible computational pipelines
+- modeling uncertainty and testing model assumptions
+- optimizing scientific code for HPC environments
+- translating mathematical models into working analysis software
 
-📄 *Moving lens effect: Simulations, forecasts, and foreground mitigation*  
-Physical Review D **111**, 043510 (2025)
+I'm particularly interested in problems where **statistics, computation, and physical or quantitative modeling meet**.
 
 ## Connect
 
