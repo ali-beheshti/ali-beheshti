@@ -1,8 +1,8 @@
 # Hi, I'm Ali 👋
 
-I'm a **Physics PhD researcher at the University of Pittsburgh** working on **statistical modeling, machine learning, quantitative data analysis, and scientific computing**.
+I'm a **Physics PhD researcher at the University of Pittsburgh** studying **cosmology using statistical inference, machine learning, large-scale data analysis, and scientific computing**.
 
-I build data-driven methods for extracting weak signals from noisy, large-scale datasets, with experience in **statistical inference, predictive modeling, simulation, uncertainty quantification, and high-performance computing**.
+My work focuses on extracting weak signals from noisy datasets using **predictive modeling, simulation, uncertainty quantification, and high-performance computing**.
 
 ## Featured Projects
 
@@ -28,7 +28,7 @@ Benchmarking machine-learning regression models for predicting galaxy redshifts 
 
 ### 🌌 [Flat Signal Painter](https://github.com/ali-beheshti/flat-signal-painter)
 
-Framework for efficiently generating and visualizing simulated signals on large numerical maps.
+Framework for efficiently generating and visualizing simulated astrophysical signals on flat-sky maps.
 
 `Simulation` · `Numerical methods` · `Scientific Python` · `Visualization`
 
