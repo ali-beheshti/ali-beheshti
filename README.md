@@ -1,16 +1,16 @@
 # Hi, I'm Ali 👋
 
-Physics PhD researcher at the **University of Pittsburgh** working on **statistical inference, scientific computing, machine learning, and large-scale data analysis**.
+I'm a **Physics PhD researcher at the University of Pittsburgh** working on **statistical modeling, machine learning, quantitative data analysis, and scientific computing**.
 
-My work focuses on extracting weak signals from noisy data, building analysis pipelines, and using simulations and HPC to validate quantitative methods.
+I build data-driven methods for extracting weak signals from noisy, large-scale datasets, with experience in **statistical inference, predictive modeling, simulation, uncertainty quantification, and high-performance computing**.
 
 ## Featured Projects
 
 ### 🔭 [Moving Lens Analysis Pipeline](https://github.com/ali-beheshti/moving-lens-analysis-pipeline)
 
-End-to-end pipeline for measuring the moving lens effect in CMB and galaxy survey data.
+End-to-end pipeline for statistical signal extraction from large CMB and galaxy datasets.
 
-`Statistical inference` · `Signal processing` · `HPC` · `Python`
+`Statistical inference` · `Signal processing` · `Large-scale data` · `HPC` · `Python`
 
 <p align="center">
   <img src="./assets/moving-lens.gif" width="650">
@@ -18,9 +18,9 @@ End-to-end pipeline for measuring the moving lens effect in CMB and galaxy surve
 
 ### 📊 [Photo-z Machine Learning Benchmark](https://github.com/ali-beheshti/photo-z-machine-learning-benchmark)
 
-Benchmarking machine-learning models for photometric redshift prediction from galaxy observables.
+Benchmarking machine-learning regression models for predicting galaxy redshifts from observational features.
 
-`Machine learning` · `Regression` · `Model evaluation` · `scikit-learn`
+`Machine learning` · `Regression` · `Model comparison` · `Feature analysis` · `scikit-learn`
 
 <p align="center">
   <img src="./assets/photo-z-benchmark.png" width="650">
@@ -28,9 +28,9 @@ Benchmarking machine-learning models for photometric redshift prediction from ga
 
 ### 🌌 [Flat Signal Painter](https://github.com/ali-beheshti/flat-signal-painter)
 
-Framework for generating simulated astrophysical signals on flat-sky maps.
+Framework for efficiently generating and visualizing simulated signals on large numerical maps.
 
-`Simulation` · `Scientific Python` · `Visualization`
+`Simulation` · `Numerical methods` · `Scientific Python` · `Visualization`
 
 <p align="center">
   <img src="./assets/flat-signal-painter.gif" width="650">
@@ -38,11 +38,11 @@ Framework for generating simulated astrophysical signals on flat-sky maps.
 
 ## Skills
 
-**Python · SQL · C · NumPy · SciPy · pandas · scikit-learn · PyTorch · Statistics · HPC · SLURM · Git**
+**Python · SQL · C · NumPy · SciPy · pandas · scikit-learn · PyTorch · Statistical inference · Machine learning · Monte Carlo methods · HPC · SLURM · Git**
 
 ## Research
 
-My PhD research focuses on the **Cosmic Microwave Background, large-scale structure, and the moving lens effect**.
+PhD research in **cosmology and statistical signal inference**, using CMB and large-scale structure datasets.
 
 📄 *Moving lens effect: Simulations, forecasts, and foreground mitigation*  
 Physical Review D **111**, 043510 (2025)
