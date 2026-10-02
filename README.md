@@ -81,4 +81,4 @@ I'm particularly interested in problems where **statistics, computation, and phy
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/alibsht/) · [Gmail](alibeheshti.edu@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/alibsht/) · [Gmail](mailto:alibeheshti.edu@gmail.com)
