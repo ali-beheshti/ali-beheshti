@@ -6,6 +6,8 @@ My work focuses on extracting weak signals from noisy datasets using **predictiv
 
 ## Featured Projects
 
+## Featured Projects
+
 <table>
 <tr>
 <td width="60%" valign="top">
@@ -24,6 +26,10 @@ End-to-end pipeline for statistical signal extraction from large CMB and galaxy 
 </td>
 </tr>
 </table>
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ### 📊 [Photo-z Machine Learning Benchmark](https://github.com/ali-beheshti/photo-z-machine-learning-benchmark)
 
