@@ -19,7 +19,7 @@ End-to-end pipeline for statistical signal extraction from large CMB and galaxy 
 </td>
 <td width="40%" align="center">
 
-<img src="./assets/pairwise-velocity.gif" width="320">
+<img src="./assets/pairwise_velocity.gif" width="320">
 
 </td>
 </tr>
