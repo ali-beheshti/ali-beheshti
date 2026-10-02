@@ -6,6 +6,10 @@ My work focuses on extracting weak signals from noisy datasets using **predictiv
 
 ## Featured Projects
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 ### 🔭 [Moving Lens Analysis Pipeline](https://github.com/ali-beheshti/moving-lens-analysis-pipeline)
 
 End-to-end pipeline for statistical signal extraction from large CMB and galaxy datasets.
@@ -15,15 +19,11 @@ End-to-end pipeline for statistical signal extraction from large CMB and galaxy 
 </td>
 <td width="40%" align="center">
 
-<img src="./assets/pairwise_velocity.gif" width="320">
+<img src="./assets/pairwise-velocity.gif" width="320">
 
 </td>
 </tr>
 </table>
-
-<table>
-<tr>
-<td width="60%" valign="top">
 
 ### 📊 [Photo-z Machine Learning Benchmark](https://github.com/ali-beheshti/photo-z-machine-learning-benchmark)
 
