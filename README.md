@@ -63,25 +63,39 @@ Framework for efficiently generating and visualizing simulated astrophysical sig
 </tr>
 </table>
 
-## Skills
+## 🧰 Skills & Toolkit
 
-**Python · SQL · C · NumPy · SciPy · pandas · scikit-learn · PyTorch · Statistical inference · Machine learning · Monte Carlo methods · HPC · SLURM · Git**
+**Languages & Computing**  
+`Python` · `SQL` · `C` · `NumPy` · `SciPy` · `pandas` · `scikit-learn` · `PyTorch`
 
-Although my research applications come from cosmology, much of the underlying work is domain-independent:
+**Statistics & Modeling**  
+`Statistical Inference` · `Machine Learning` · `Monte Carlo Methods` · `Uncertainty Quantification`
 
-- extracting weak signals from noisy data
-- designing and validating statistical estimators
-- working with large, high-dimensional datasets
-- building reproducible computational pipelines
-- modeling uncertainty and testing model assumptions
-- optimizing scientific code for HPC environments
-- translating mathematical models into working analysis software
+**Scientific Computing**  
+`HPC` · `SLURM` · `Git` · `Reproducible Pipelines` · `Large-Scale Data Analysis`
 
-I'm particularly interested in problems where **statistics, computation, and physical or quantitative modeling meet**.
+---
 
+## 🔬 What I Work On
 
- [Publications](https://scholar.google.com/citations?hl=en&user=BljYE98AAAAJ) 
- 
- [LinkedIn](https://www.linkedin.com/in/alibsht/)
- 
- [Gmail](mailto:alibeheshti.edu@gmail.com)
+My research applications come from cosmology, but the underlying problems are broadly applicable across data science, quantitative modeling, and scientific computing.
+
+I enjoy working on problems that involve:
+
+- 📡 **Extracting weak signals** from noisy, high-dimensional data
+- 📊 **Designing and validating statistical estimators**
+- 🧠 **Building and evaluating predictive models**
+- 🎲 **Modeling uncertainty** and testing assumptions
+- ⚙️ **Developing reproducible computational pipelines**
+- 🚀 **Optimizing scientific code** for HPC environments
+- 📐 **Translating mathematical models** into working analysis software
+
+> **I'm particularly interested in problems where statistics, computation, and physical or quantitative modeling meet.**
+
+---
+
+### 🔗 Connect
+
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=BljYE98AAAAJ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alibsht/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alibeheshti.edu@gmail.com)
