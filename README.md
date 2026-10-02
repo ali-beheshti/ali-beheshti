@@ -16,6 +16,25 @@ End-to-end pipeline for statistical signal extraction from large CMB and galaxy 
   <img src="./assets/pairwise_velocity.gif" width="250">
 </p>
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### 🔭 [Moving Lens Analysis Pipeline](https://github.com/ali-beheshti/moving-lens-analysis-pipeline)
+
+End-to-end pipeline for statistical signal extraction from large CMB and galaxy datasets.
+
+`Statistical inference` · `Signal processing` · `Large-scale data` · `HPC` · `Python`
+
+</td>
+<td width="40%" align="center">
+
+<img src="./assets/moving-lens.gif" width="320">
+
+</td>
+</tr>
+</table>
+
 ### 📊 [Photo-z Machine Learning Benchmark](https://github.com/ali-beheshti/photo-z-machine-learning-benchmark)
 
 Benchmarking machine-learning regression models for predicting galaxy redshifts from observational features.
