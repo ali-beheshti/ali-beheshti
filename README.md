@@ -1,6 +1,6 @@
 # Hi, I'm Ali 👋
 
-I'm a **Physics PhD researcher at the University of Pittsburgh** studying **cosmology using statistical inference, machine learning, large-scale data analysis, and scientific computing**.
+I'm a **Physics PhD researcher** at the University of Pittsburgh studying cosmology using **statistical inference, machine learning, large-scale data analysis, and scientific computing**.
 
 My work focuses on extracting weak signals from noisy datasets using **predictive modeling, simulation, uncertainty quantification, and high-performance computing**.
 
