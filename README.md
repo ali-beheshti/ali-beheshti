@@ -26,7 +26,7 @@ Benchmarking machine-learning regression models for predicting galaxy redshifts 
   <img src="./assets/photo-z-benchmark.png" width="650">
 </p>
 
-### 🌌 [Flat Signal Painter](https://github.com/ali-beheshti/flat-signal-painter)
+### 🌌 [Fast Signal Painter](https://github.com/ali-beheshti/flat-signal-painter)
 
 Framework for efficiently generating and visualizing simulated astrophysical signals on flat-sky maps.
 
