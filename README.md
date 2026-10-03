@@ -65,12 +65,11 @@ Framework for efficiently generating and visualizing simulated astrophysical sig
 
 ## What I Work On
 
-- Extracting **weak signals from noisy data**
-- Building and validating **statistical and predictive models**
-- Working with **large datasets and computationally intensive analyses**
-- Quantifying **uncertainty, bias, and robustness**
-- Developing **reproducible scientific workflows**
-- Turning **mathematical models into working analysis code**
+- Extracting weak signals from noisy observational data
+- Comparing models and testing how robust their conclusions are
+- Working with large datasets that require efficient computation
+- Building analysis pipelines that are reproducible and easy to extend
+- Turning mathematical ideas into practical analysis tools
 
 > **Statistics × Computation × Quantitative Modeling**
 ---
