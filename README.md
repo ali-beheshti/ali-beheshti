@@ -65,31 +65,93 @@ Framework for efficiently generating and visualizing simulated astrophysical sig
 
 ## ⚡ Technical Toolkit
 
-**Programming & Data**  
-`Python` · `SQL` · `C` · `NumPy` · `pandas` · `SciPy`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Machine Learning**  
-`scikit-learn` · `XGBoost` · `CatBoost` · `PyTorch` · `Feature Engineering` · `Model Validation`
+### 💻 Build
+`Python` · `SQL` · `C`  
+`NumPy` · `pandas` · `SciPy`
 
-**Statistics & Scientific Computing**  
-`Statistical Inference` · `Hypothesis Testing` · `Uncertainty Quantification` · `Monte Carlo` · `Covariance Modeling` · `Simulation`
+</td>
+<td width="50%" valign="top">
 
-**Tools & Infrastructure**  
-`HPC` · `SLURM` · `Git` · `Linux` · `Bash` · `Jupyter` · `Matplotlib`
+### 🤖 Model
+`scikit-learn` · `XGBoost` · `CatBoost`  
+`PyTorch` · `Feature Engineering` · `Model Validation`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📐 Infer
+`Statistical Inference` · `Hypothesis Testing`  
+`Uncertainty Quantification` · `Monte Carlo`  
+`Covariance Modeling`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Scale
+`HPC` · `SLURM` · `Linux` · `Bash`  
+`Git` · `Jupyter` · `Matplotlib`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🧩 What I Like Working On
 
-- Extracting **weak signals from noisy data**
-- Building and validating **statistical and predictive models**
-- Analyzing **large, high-dimensional datasets**
-- Developing **reproducible computational pipelines**
-- Quantifying **uncertainty, bias, and model robustness**
-- Scaling scientific workflows to **HPC environments**
+<table>
+<tr>
+<td width="33%" valign="top">
 
-> I'm particularly interested in problems where **statistics, computation, and quantitative modeling meet**.
+### 📡 Signal
+Extracting **weak signals** from noisy, complex datasets.
 
+</td>
+<td width="33%" valign="top">
+
+### 📊 Models
+Building and validating **statistical and predictive models**.
+
+</td>
+<td width="33%" valign="top">
+
+### 🚀 Scale
+Turning analyses into **reproducible HPC workflows**.
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+### 🎲 Uncertainty
+Quantifying **uncertainty, bias, and robustness**.
+
+</td>
+<td width="33%" valign="top">
+
+### 🧠 Data
+Working with **large, high-dimensional datasets**.
+
+</td>
+<td width="33%" valign="top">
+
+### 🧮 Translation
+Turning **mathematical ideas into working software**.
+
+</td>
+</tr>
+</table>
+
+> **Statistics × Computation × Quantitative Modeling**  
+> I’m especially interested in problems that sit at the intersection of all three.
 ---
 
 ### Find me elsewhere
