@@ -1,8 +1,8 @@
 # Hi, I'm Ali 👋
 
-I'm a **Physics PhD researcher** at the University of Pittsburgh studying cosmology using **statistical inference, machine learning, large-scale data analysis, and scientific computing**.
+I'm a **Physics PhD researcher** at the University of Pittsburgh working at the intersection of **cosmology, statistics, and scientific computing**.
 
-My work focuses on extracting weak signals from noisy datasets using **predictive modeling, simulation, uncertainty quantification, and high-performance computing**.
+My research focuses on extracting weak signals from large, noisy datasets through **statistical modeling, simulation, machine learning, and high-performance computing**.
 
 ## Featured Projects
 
@@ -65,40 +65,30 @@ Framework for efficiently generating and visualizing simulated astrophysical sig
 
 ## ⚡ Technical Toolkit
 
-### 💻 Programming
-`Python` `SQL` `C`
+**Programming & Data**  
+`Python` · `SQL` · `C` · `NumPy` · `pandas` · `SciPy`
 
-### 📊 Data & Machine Learning
-`NumPy` `SciPy` `pandas` `scikit-learn` `PyTorch`
+**Machine Learning**  
+`scikit-learn` · `XGBoost` · `CatBoost` · `PyTorch` · `Feature Engineering` · `Model Validation`
 
-### 🧮 Statistics & Scientific Computing
-`Statistical Inference` `Monte Carlo` `Uncertainty Quantification` `Large-Scale Data Analysis`
+**Statistics & Scientific Computing**  
+`Statistical Inference` · `Hypothesis Testing` · `Uncertainty Quantification` · `Monte Carlo` · `Covariance Modeling` · `Simulation`
 
-### ⚙️ Tools & Infrastructure
-`HPC` `SLURM` `Git` `Reproducible Workflows`
-
----
-
-## 🧩 Problems I Like Solving
-
-My background is in cosmology, but the computational and statistical challenges I work on extend beyond astrophysics.
-
-**Signal extraction**  
-Finding weak signals hidden in noisy, complex datasets.
-
-**Statistical modeling**  
-Designing estimators, quantifying uncertainty, and validating assumptions.
-
-**Large-scale computation**  
-Turning analysis methods into efficient workflows that run across large datasets and HPC systems.
-
-**Scientific software**  
-Translating mathematical ideas into robust, reproducible analysis code.
+**Tools & Infrastructure**  
+`HPC` · `SLURM` · `Git` · `Linux` · `Bash` · `Jupyter` · `Matplotlib`
 
 ---
 
-> ### Statistics + Computation + Quantitative Modeling
-> I’m particularly interested in problems that sit at the intersection of these three areas.
+## 🧩 What I Like Working On
+
+- Extracting **weak signals from noisy data**
+- Building and validating **statistical and predictive models**
+- Analyzing **large, high-dimensional datasets**
+- Developing **reproducible computational pipelines**
+- Quantifying **uncertainty, bias, and model robustness**
+- Scaling scientific workflows to **HPC environments**
+
+> I'm particularly interested in problems where **statistics, computation, and quantitative modeling meet**.
 
 ---
 
