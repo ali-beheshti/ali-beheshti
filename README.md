@@ -1,6 +1,6 @@
 # Hi, I'm Ali 👋
 
-I'm a **Physics PhD researcher** at the University of Pittsburgh working at the intersection of **cosmology, statistics, and scientific computing**.
+I'm a **Physics PhD researcher** at the University of Pittsburgh working at the intersection of **physics, statistics, and scientific computing**.
 
 My research focuses on extracting weak signals from large, noisy datasets through **statistical modeling, simulation, machine learning, and high-performance computing**.
 
