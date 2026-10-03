@@ -81,7 +81,7 @@ Framework for efficiently generating and visualizing simulated astrophysical sig
 
 ## 🧩 Problems I Like Solving
 
-My background is in cosmology, but the computational and statistical challenges I work on extend well beyond astrophysics.
+My background is in cosmology, but the computational and statistical challenges I work on extend beyond astrophysics.
 
 **Signal extraction**  
 Finding weak signals hidden in noisy, complex datasets.
