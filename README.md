@@ -8,58 +8,49 @@ My research focuses on extracting weak signals from large, noisy datasets throug
 
 <table>
 <tr>
-<td width="58%" valign="top">
 
-### [Moving Lens Analysis Pipeline](https://github.com/ali-beheshti/moving-lens-analysis-pipeline)
+<td width="33%" valign="top" align="center">
 
-Statistical signal extraction from large CMB and galaxy datasets.
+<a href="https://github.com/ali-beheshti/moving-lens-analysis-pipeline">
+<img src="./assets/pairwise_velocity.gif" width="260">
+</a>
 
-`Statistical inference` · `Signal processing` · `HPC` · `Python`
+### 🔭 [Moving Lens Analysis Pipeline](https://github.com/ali-beheshti/moving-lens-analysis-pipeline)
 
-</td>
-<td width="42%" align="center">
+End-to-end pipeline for statistical signal extraction from large CMB and galaxy datasets.
 
-<img src="./assets/pairwise_velocity.gif" width="300">
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="58%" valign="top">
-
-### [Photo-z Machine Learning Benchmark](https://github.com/ali-beheshti/photo-z-machine-learning-benchmark)
-
-Benchmarking regression models for photometric redshift prediction.
-
-`Machine learning` · `Regression` · `Model validation` · `scikit-learn`
+`Statistical inference` · `Signal processing` · `Large-scale data` · `HPC` · `Python`
 
 </td>
-<td width="42%" align="center">
 
-<img src="./assets/photoz_feature_ablation.gif" width="300">
+<td width="33%" valign="top" align="center">
+
+<a href="https://github.com/ali-beheshti/photo-z-machine-learning-benchmark">
+<img src="./assets/photoz_feature_ablation.gif" width="260">
+</a>
+
+### 📊 [Photo-z Machine Learning Benchmark](https://github.com/ali-beheshti/photo-z-machine-learning-benchmark)
+
+Benchmarking machine-learning regression models for predicting galaxy redshifts from observational features.
+
+`Machine learning` · `Regression` · `Model comparison` · `Feature analysis` · `scikit-learn`
 
 </td>
-</tr>
-</table>
 
-<table>
-<tr>
-<td width="58%" valign="top">
+<td width="33%" valign="top" align="center">
 
-### [Fast Signal Painter](https://github.com/ali-beheshti/flat-signal-painter)
+<a href="https://github.com/ali-beheshti/flat-signal-painter">
+<img src="./assets/velocity_rotation.gif" width="260">
+</a>
 
-Fast simulation and visualization of astrophysical signals on flat-sky maps.
+### 🌌 [Fast Signal Painter](https://github.com/ali-beheshti/flat-signal-painter)
+
+Framework for efficiently generating and visualizing simulated astrophysical signals on flat-sky maps.
 
 `Simulation` · `Numerical methods` · `Scientific Python` · `Visualization`
 
 </td>
-<td width="42%" align="center">
 
-<img src="./assets/velocity_rotation.gif" width="300">
-
-</td>
 </tr>
 </table>
 
