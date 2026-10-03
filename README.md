@@ -63,95 +63,25 @@ Framework for efficiently generating and visualizing simulated astrophysical sig
 </tr>
 </table>
 
-## Technical Toolkit
+## ⚡ Technical Toolkit
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💻 Build
-`Python` · `SQL` · `C`  
-`NumPy` · `pandas` · `SciPy`
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Model
-`scikit-learn` · `XGBoost` · `CatBoost`  
-`PyTorch` · `Feature Engineering` · `Model Validation`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📐 Infer
-`Statistical Inference` · `Hypothesis Testing`  
-`Uncertainty Quantification` · `Monte Carlo`  
-`Covariance Modeling`
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Scale
-`HPC` · `SLURM` · `Linux` · `Bash`  
-`Git` · `Jupyter` · `Matplotlib`
-
-</td>
-</tr>
-</table>
+**Build** → `Python` · `SQL` · `C` · `NumPy` · `pandas` · `SciPy`  
+**Model** → `scikit-learn` · `XGBoost` · `CatBoost` · `PyTorch`  
+**Infer** → `Statistical Inference` · `Monte Carlo` · `Uncertainty Quantification`  
+**Scale** → `HPC` · `SLURM` · `Linux` · `Bash` · `Git`
 
 ---
 
-## What I Like Working On
+## 🧩 I Like Problems That Involve...
 
-<table>
-<tr>
-<td width="33%" valign="top">
+📡 **Weak signals** hidden in noisy data  
+📊 **Statistical & predictive models** that need careful validation  
+🎲 **Uncertainty and robustness** rather than just point predictions  
+🧠 **Large datasets** that require efficient computation  
+🚀 **HPC workflows** that turn prototypes into scalable analyses  
+🧮 **Mathematical models** that need to become working software
 
-### 📡 Signal
-Extracting **weak signals** from noisy, complex datasets.
-
-</td>
-<td width="33%" valign="top">
-
-### 📊 Models
-Building and validating **statistical and predictive models**.
-
-</td>
-<td width="33%" valign="top">
-
-### 🚀 Scale
-Turning analyses into **reproducible HPC workflows**.
-
-</td>
-</tr>
-
-<tr>
-<td width="33%" valign="top">
-
-### 🎲 Uncertainty
-Quantifying **uncertainty, bias, and robustness**.
-
-</td>
-<td width="33%" valign="top">
-
-### 🧠 Data
-Working with **large, high-dimensional datasets**.
-
-</td>
-<td width="33%" valign="top">
-
-### 🧮 Translation
-Turning **mathematical ideas into working software**.
-
-</td>
-</tr>
-</table>
-
-> **Statistics × Computation × Quantitative Modeling**  
-> I’m especially interested in problems that sit at the intersection of all three.
+> **Statistics × Computation × Quantitative Modeling**
 ---
 
 ### Find me elsewhere
