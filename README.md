@@ -12,7 +12,7 @@ My research focuses on extracting weak signals from large, noisy datasets throug
 <td width="33%" valign="top" align="center">
 
 <a href="https://github.com/ali-beheshti/moving-lens-analysis-pipeline">
-<img src="./assets/pairwise_velocity.gif" width="260">
+<img src="./assets/pairwise_velocity.gif" style="max-width:100%; height:auto;">
 </a>
 
 ### 🔭 [Moving Lens Analysis Pipeline](https://github.com/ali-beheshti/moving-lens-analysis-pipeline)
@@ -26,7 +26,7 @@ End-to-end pipeline for statistical signal extraction from large CMB and galaxy 
 <td width="33%" valign="top" align="center">
 
 <a href="https://github.com/ali-beheshti/photo-z-machine-learning-benchmark">
-<img src="./assets/photoz_feature_ablation.gif" width="260">
+<img src="./assets/photoz_feature_ablation.gif" style="max-width:100%; height:auto;">
 </a>
 
 ### 📊 [Photo-z Machine Learning Benchmark](https://github.com/ali-beheshti/photo-z-machine-learning-benchmark)
@@ -40,7 +40,7 @@ Benchmarking machine-learning regression models for predicting galaxy redshifts 
 <td width="33%" valign="top" align="center">
 
 <a href="https://github.com/ali-beheshti/flat-signal-painter">
-<img src="./assets/velocity_rotation.gif" width="260">
+<img src="./assets/velocity_rotation.gif" style="max-width:100%; height:auto;">
 </a>
 
 ### 🌌 [Fast Signal Painter](https://github.com/ali-beheshti/flat-signal-painter)
