@@ -63,7 +63,7 @@ Framework for efficiently generating and visualizing simulated astrophysical sig
 </tr>
 </table>
 
-## ⚡ Technical Toolkit
+## Technical Toolkit
 
 **Build** → `Python` · `SQL` · `C` · `NumPy` · `pandas` · `SciPy`  
 **Model** → `scikit-learn` · `XGBoost` · `CatBoost` · `PyTorch`  
@@ -72,14 +72,14 @@ Framework for efficiently generating and visualizing simulated astrophysical sig
 
 ---
 
-## 🧩 I Like Problems That Involve...
+## Problems I Like Working On
 
-📡 **Weak signals** hidden in noisy data  
-📊 **Statistical & predictive models** that need careful validation  
-🎲 **Uncertainty and robustness** rather than just point predictions  
-🧠 **Large datasets** that require efficient computation  
-🚀 **HPC workflows** that turn prototypes into scalable analyses  
-🧮 **Mathematical models** that need to become working software
+- Extracting **weak signals from noisy data**
+- Building and validating **statistical and predictive models**
+- Working with **large datasets and computationally intensive analyses**
+- Quantifying **uncertainty, bias, and robustness**
+- Developing **reproducible scientific workflows**
+- Turning **mathematical models into working analysis code**
 
 > **Statistics × Computation × Quantitative Modeling**
 ---
