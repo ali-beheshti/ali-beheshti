@@ -72,7 +72,7 @@ Framework for efficiently generating and visualizing simulated astrophysical sig
 
 ---
 
-## Problems I Like Working On
+## What I Work On
 
 - Extracting **weak signals from noisy data**
 - Building and validating **statistical and predictive models**
