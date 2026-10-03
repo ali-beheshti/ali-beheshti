@@ -63,7 +63,7 @@ Framework for efficiently generating and visualizing simulated astrophysical sig
 </tr>
 </table>
 
-## ⚡ Technical Toolkit
+## Technical Toolkit
 
 <table>
 <tr>
@@ -104,7 +104,7 @@ Framework for efficiently generating and visualizing simulated astrophysical sig
 
 ---
 
-## 🧩 What I Like Working On
+## What I Like Working On
 
 <table>
 <tr>
