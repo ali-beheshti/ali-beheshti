@@ -43,7 +43,7 @@ Benchmarking machine-learning regression models for predicting galaxy redshifts 
 <img src="./assets/velocity_rotation.gif" style="max-width:100%; height:auto;">
 </a>
 
-### 🌌 [SkySignalForge](https://github.com/ali-beheshti/flat-signal-painter)
+### 🌌 [Sky Signal Forge](https://github.com/ali-beheshti/flat-signal-painter)
 
 Framework for efficiently generating and visualizing simulated astrophysical signals on flat-sky maps.
 
